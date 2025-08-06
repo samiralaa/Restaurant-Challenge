@@ -64,18 +64,8 @@ Your task is to open a PR (or multiple PRs) with a solution to achieve the follo
 * The job should not re-trigger all requests upon retry but instead retry only from the failed request.
 * The job should be resilient, handling retries efficiently, and know when not to retry.
 
+
 # The Challenge (part III)
-
-In the open Pull Requests, you will find a PR from one of our new junior engineers. Please read the description and review the PR.
-
-Your task is to support the engineer and the team to achieve the best outcome from the PR by focusing on:
-
-* Code quality, project standards, best practices, and test coverage.
-* Providing feedback that is supportive and aimed at helping the junior engineer improve.
-* Using the opportunity to mentor the junior engineer.
-* Explaining why certain changes are necessary and how they contribute to better code quality or performance.
-
-# The Challenge (part IV)
 
 Finally, we need to implement the Create Orders API. An important requirement is that this API must limit or throttle the number of requests it accepts per minute, and this limit should apply separately for each branch.
 Your task is to open a PR with a solution to achieve this outcome. Focus on the following:
