@@ -7,9 +7,9 @@ The application runs on top of Laravel 9, PHP 8.2 and MySql 8.0.
 Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed and clone the project to your local machine. Once you have it, navigate to the project directory, run composer and start [Laravel Sail](https://laravel.com/docs/10.x/sail).
 
 ```
-git clone git@bitbucket.org:crush37/foodics-challenge-{your-name}.git foodics-challenge-api
+git clone https://github.com/fadaa-tech/Restaurant-Challenge Restaurant Challenge API
 
-cd foodics-challenge-api
+cd Restaurant-Challenge
 
 cp .env.example .env
 
